@@ -1,6 +1,10 @@
----
-
 # Cryptographic Puzzle Blockchain  
+
+![Version](https://img.shields.io/badge/version-1.0-blue) 
+![License](https://img.shields.io/badge/license-MIT-green) 
+![Status](https://img.shields.io/badge/status-Completed-brightgreen)
+
+---
 ![blockchain_banner](banner.jpg)
 
 ## 📋 Project Description  
