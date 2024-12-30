@@ -1,9 +1,7 @@
-Here’s the **`README.md`** written out for you:
-
 ---
 
 # Cryptographic Puzzle Blockchain  
-![blockchain_banner](Pictures/blockchain-banner.png)
+![blockchain_banner](banner.jpg)
 
 ## 📋 Project Description  
 A cryptographic puzzle blockchain system built using Python. This project implements a blockchain structure with dynamic difficulty adjustment, Proof-of-Work (PoW), and a mining process that rewards miners with tokens.
